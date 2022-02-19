@@ -2,4 +2,4 @@
 ## 概要
 - 自己紹介用のPortfolioです
 - 使用言語: HTML, CSS -> 近々React.jsでバージョンアップ予定
-- Here: https://t0-0d.github.io/ODs-portal/index.html
+- https://t0-0d.github.io/portfolio/
